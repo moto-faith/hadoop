@@ -1,0 +1,3 @@
+cn\itcast\hadoop\mr\WordCountDriver.class
+cn\itcast\hadoop\mr\WordCountMapper.class
+cn\itcast\hadoop\mr\WordCountReducer.class
